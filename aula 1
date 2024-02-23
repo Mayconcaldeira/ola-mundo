@@ -6,7 +6,7 @@
   <meta name="application-name"content="olá mundo">
   <title> olá mundo</title>
   <link rel="stylesheet" href="styles.css">
-  <script type="module" src="code.js">
+  <script type="module" src="code.js"></script>
 </head>
 <body>
   <div class="center">
